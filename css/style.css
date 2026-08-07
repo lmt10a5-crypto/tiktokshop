@@ -89,3 +89,9 @@ button{
 button:hover{
     background:#d60042;
 }
+footer{
+    text-align:center;
+    color:white;
+    background:#000;
+    padding:20px;
+}
