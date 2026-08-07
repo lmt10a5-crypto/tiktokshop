@@ -5,3 +5,5 @@
 - Thêm sản phẩm vào giỏ hàng.
 - Thanh toán.
 - Đăng nhập tài khoản.
+## Ghi chú
+Đây là phiên bản hoàn thiện.
